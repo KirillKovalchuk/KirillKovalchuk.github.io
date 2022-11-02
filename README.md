@@ -3,7 +3,7 @@
 ## CONTACTS
 
 Feel free to contact me via Telegram @kirill_kovalchuk or by scanning this QR code:
-![https://t.me/@kirill_kovalchuk](telegram.png)
+![https://t.me/@kirill_kovalchuk](telegram.jpg)
 
 ## TESTIMONIAL
 
