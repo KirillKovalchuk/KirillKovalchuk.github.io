@@ -1,11 +1,11 @@
 # KIRILL KOVALCHUK
 
-![Photo of Kirill Kovalchuk](avatar_sq_face.jpg)
+![Photo of Kirill Kovalchuk](avatar_sq_face.jpg =250x)
 
 ## CONTACTS
 
 Feel free to contact me via Telegram @kirill_kovalchuk or by scanning this QR code:
-![https://t.me/@kirill_kovalchuk](telegram.jpg)
+![https://t.me/@kirill_kovalchuk](telegram.jpg =250x)
 
 ## TESTIMONIAL
 
