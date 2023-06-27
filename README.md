@@ -1,12 +1,14 @@
 # KIRILL KOVALCHUK
 
-<img src="avatar_sq_face.jpg" width="150" alt="Photo of Kirill Kovalchuk">
+<img src="avatar_sq_face.jpg" width="150" alt="Photo of Kirill Kovalchuk">  <img src="telegram.jpg" width="150" alt="https://t.me/@kirill_kovalchuk">
 
 ## CONTACTS
 
-Feel free to contact me via Telegram @kirill_kovalchuk or by scanning this QR code:
-
-<img src="telegram.jpg" width="150" alt="https://t.me/@kirill_kovalchuk">
+- +46 (0)70 514 80 55 (also Whatsapp, Skype)
+- +381 (0)62 938 3088 (also Viber)
+- +7 912 744 0881 or [@kirill_kovalchuk](https://t.me/kirill_kovalchuk)
+- or [book a call](https://calendly.com/kovalchuk/rp)
+- or email: kirill (at) kovalchuk.in
 
 ## BIO
 
