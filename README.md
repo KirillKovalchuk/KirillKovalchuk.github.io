@@ -12,7 +12,8 @@
 
 ## BIO
 
-- 2016 to today, Individual Entrepreneur, Product manager.
+- 2022, [CodeExpert](https://codeexpert.se/), Chief Operating Officer.
+- 2016, Individual Entrepreneur, Product manager.
 - 2013, [Mobilkassan](http://www.mobilkassan.se/), Product manager, Solution designer.
 - 2007, [Fastdev AB](http://fastdev.se/), Founder of Russian development department.
 - 2006, [HTC Ltd](http://htc-cs.com/), Chief of Java department.
