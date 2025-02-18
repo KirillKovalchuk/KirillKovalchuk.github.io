@@ -12,9 +12,10 @@
 
 ## BIO
 
+- 2025, [7voice](https://www.7voice.ai/), Product manager.
 - 2022, [CodeExpert](https://codeexpert.se/), Chief Operating Officer.
 - 2016, Individual Entrepreneur, Product manager.
-- 2013, [Mobilkassan](http://www.mobilkassan.se/), Product manager, Solution designer.
+- 2014, [srv4pos.com](http://srv4pos.com/), Product manager, Solution designer.
 - 2007, [Fastdev AB](http://fastdev.se/), Founder of Russian development department.
 - 2006, [HTC Ltd](http://htc-cs.com/), Chief of Java department.
 - 2003, [Inmarsoft Ltd](http://inmarsoft.com/), Project manager.
