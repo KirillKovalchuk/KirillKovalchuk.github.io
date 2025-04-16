@@ -13,10 +13,10 @@
 
 ## BIO
 
-- 2025, [7voice](https://www.7voice.ai/), Product manager.
-- 2022, [CodeExpert](https://codeexpert.se/), Chief Operating Officer.
-- 2016, Individual Entrepreneur, Product manager.
-- 2014, [srv4pos.com](http://srv4pos.com/), Product manager, Solution designer.
-- 2007, [Fastdev AB](http://fastdev.se/), Founder of Russian development department.
-- 2004-2006, Software developer.
-- 1999-2004, education, Master's degree in Software Engineering.
+- 2025, [7voice](https://www.7voice.ai/), Product manager
+- 2022, [CodeExpert](https://codeexpert.se/), Chief Operating Officer
+- 2016, Individual Entrepreneur, Product manager
+- 2014, [srv4pos.com](http://srv4pos.com/), Product manager, Solution designer
+- 2007, [Fastdev AB](http://fastdev.se/), CTO
+- 2004-2006, Software developer
+- 1999-2004, education, Master's degree in Software Engineering
