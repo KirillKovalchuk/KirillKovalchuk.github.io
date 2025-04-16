@@ -6,9 +6,10 @@
 
 - +46 (0)70 514 80 55 (also Whatsapp, Skype)
 - +381 (0)62 938 3088 (also Viber)
-- +7 912 744 0881 or [@kirill_kovalchuk](https://t.me/kirill_kovalchuk)
-- or [book a call](https://calendly.com/kovalchuk/rp)
+- send IM to Telegram https://t.me/kirill_kovalchuk
+- book a call via https://calendly.com/kovalchuk
 - or email: kirill (at) kovalchuk.in
+- https://www.linkedin.com/in/kirillkov/
 
 ## BIO
 
@@ -17,8 +18,5 @@
 - 2016, Individual Entrepreneur, Product manager.
 - 2014, [srv4pos.com](http://srv4pos.com/), Product manager, Solution designer.
 - 2007, [Fastdev AB](http://fastdev.se/), Founder of Russian development department.
-- 2006, [HTC Ltd](http://htc-cs.com/), Chief of Java department.
-- 2003, [Inmarsoft Ltd](http://inmarsoft.com/), Project manager.
-- 2001, [NPO Computer Ltd](http://www.npo-comp.ru/), Software developer.
-- 2000, Volgogeologia FGUP, Software developer.
-- 1999-2004, education, [Izhevsk State Technical University](http://inter.istu.ru/), Informatics and Computer Engineering.
+- 2004-2006, Software developer.
+- 1999-2004, education, Master's degree in Software Engineering.
