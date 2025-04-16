@@ -4,9 +4,8 @@
 
 ## CONTACTS
 
-- +46 (0)70 514 80 55 (also Whatsapp, Skype)
-- +381 (0)62 938 3088 (also Viber)
-- send IM to Telegram [https://t.me/kirill_kovalchuk](https://t.me/kirill_kovalchuk)
+- send message to Whatsapp +46 70 514 80 55
+- send message to Telegram [https://t.me/kirill_kovalchuk](https://t.me/kirill_kovalchuk)
 - book a call via [https://calendly.com/kovalchuk](https://calendly.com/kovalchuk)
 - or email: kirill (at) kovalchuk.in
 - [https://www.linkedin.com/in/kirillkov/](https://www.linkedin.com/in/kirillkov/)
