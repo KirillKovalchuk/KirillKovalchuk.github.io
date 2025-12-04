@@ -4,7 +4,7 @@
 
 ## CONTACTS
 
-- send message to Whatsapp +46 70 514 80 55
+- send message to Whatsapp +46 73 302 92 51
 - send message to Telegram [https://t.me/kirill_kovalchuk](https://t.me/kirill_kovalchuk)
 - book a call via [https://calendly.com/kovalchuk](https://calendly.com/kovalchuk)
 - or email: kirill (at) kovalchuk.in
